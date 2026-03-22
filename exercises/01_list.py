@@ -13,4 +13,13 @@ response = "la differenza ..."
 # [ ] B. 1Byte per ogni carattere
 # [ ] C. 1KiloByte per ogni carattere
 
-# 05. 
+# 05. misura quanto spazio occupano in memoria RAM le stringhe `s1`, `s2`, ... usando la funzione sys.getsizeof
+import sys
+s1 = ""
+s2 = "a"
+s3 = "1"
+s4 = "ab"
+s5 = "12"
+s6 = "abcdefghij"
+s7 = "1234567890"
+
