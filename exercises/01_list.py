@@ -101,11 +101,12 @@ print(sys.getsizeof(  [[[[], []]], []]  ))  # 72
 ...
 
 # 13. salva in una matrice i valori di questa tabella
-# titolo_libro, costo, disponibile_in_magazzino, anno_pubblicazione
 #
-# aaa, 1.50, si, 2015
-# bbb, 23.0, no, 2016
-# ccc, 4.12, si, 1997
+# titolo_libro, costo, disponibile_in_magazzino, anno_pubblicazione
+# -----------------------------------------------------------------
+# aaa,          1.50,   si,                      2015
+# bbb,          23.0,   no,                      2016
+# ccc,          4.12,   si,                      1997
 
 ...
 
@@ -113,3 +114,7 @@ print(sys.getsizeof(  [[[[], []]], []]  ))  # 72
 # CRUD = Create, Read, Update, Delete
 # mi aspetto di avere i 4 metodi 
 # e un workflow che iterativamente mi chiede che azione fare, parametri e alla fine stampa anche il contenuto del database
+
+...
+
+# 15. crea un programma basato su 2 tabelle
