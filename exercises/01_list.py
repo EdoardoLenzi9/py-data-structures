@@ -131,3 +131,20 @@ print(sys.getsizeof(  [[[[], []]], []]  ))  # 72
 # 2,  feltrinelli
 
 ...
+
+# 15.bis 
+# il programma parte con database vuoto
+# crea una nuova casa editrice einaudi
+# crea una nuova casa editrice hoepli
+# elimina hoepli
+# crea un nuova casa editrice feltrinelli
+# stampa le case editrici
+# stampa le case editrici che contengono nel nome "elli"
+# crea un nuovo libro aaa ... assegnato a feltrinelli
+# crea un nuovo libro e prova ad assegnarlo all'editore 4 che non esiste (mi aspetto un errore)
+# crea bbb, ccc, ddd
+# elimina ddd
+# stampa tutti i libri che costano meno di 10 euro (con li nome della casa editrice)
+# stampa tutti i libri presenti in magazzino
+# stampa tutti i libri della casa editrice einaudi
+# elimina tutto dal database
