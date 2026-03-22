@@ -90,4 +90,23 @@ print(sys.getsizeof(  [[[[], []]], []]  ))  # 72
 
 ...
 
-# 12.
+# 12. inizializza una matrice bidimensionale contenente questi valori
+#
+#   1 0 0
+#   0 1 0
+#   0 0 1
+#
+# stampa i valori in posizione (0,0), (1,1), (-1, -1)
+
+...
+
+# 13. salva in una matrice i valori di questa tabella
+# titolo_libro, costo, disponibile_in_magazzino, anno_pubblicazione
+#
+# aaa, 1.50, si, 2015
+# bbb, 23.0, no, 2016
+# ccc, 4.12, si, 1997
+
+...
+
+# 14. 
