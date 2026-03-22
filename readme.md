@@ -9,6 +9,10 @@
 
 ## `list`
 - initialization
+- over-write
+- append
+- insert
+- remove
 - 
 
 # 10. operazioni sulle liste

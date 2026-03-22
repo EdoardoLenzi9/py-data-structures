@@ -148,3 +148,10 @@ print(sys.getsizeof(  [[[[], []]], []]  ))  # 72
 # stampa tutti i libri presenti in magazzino
 # stampa tutti i libri della casa editrice einaudi
 # elimina tutto dal database
+
+...
+
+# 16 data una lista [1, 2, 4, 5] inserisci tramite indice il valore 3 nella sua posizione corretta
+# rimuovi il valore 3 tramite indice
+
+...
