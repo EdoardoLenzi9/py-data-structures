@@ -153,5 +153,6 @@ print(sys.getsizeof(  [[[[], []]], []]  ))  # 72
 
 # 16 data una lista [1, 2, 4, 5] inserisci tramite indice il valore 3 nella sua posizione corretta
 # rimuovi il valore 3 tramite indice
+# stampa il numero di elementi in lista
 
 ...
