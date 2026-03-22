@@ -1,11 +1,14 @@
 # 01. cos'e' una sequenza?
+
 response = "una sequenza e' ..."
 
 # 02. cos'e' una lista/array?
+
 response = "una lista e' ..."
 
 # 03. qual'e' la differenza fra un'array di caratteri e una stringa?
 # hint: mutable vs immutable
+
 response = "la differenza ..."
 
 # 04. quanto spazio in memoria RAM occupa una stringa?
@@ -14,6 +17,7 @@ response = "la differenza ..."
 # [ ] C. 1KiloByte per ogni carattere
 
 # 05. misura quanto spazio occupano in memoria RAM le stringhe `s1`, `s2`, ... usando la funzione sys.getsizeof
+
 import sys
 s1 = ""
 s2 = "a"
@@ -24,6 +28,7 @@ s6 = "abcdefghij"
 s7 = "1234567890"
 
 # 06. inizializza una lista x vuota, y contentente la stringa "abc", z contentente i caratteri "abc"
+
 x = ...
 y = ...
 z = ...
@@ -54,6 +59,7 @@ y.append("b")
 y
 
 # 09.bis come mai secondo te succede questa cosa?
+
 print(sys.getsizeof(  []                ))  # 56
 print(sys.getsizeof(  [[], []]          ))  # 72
 print(sys.getsizeof(  [[[]], []]        ))  # 72
@@ -77,3 +83,11 @@ print(sys.getsizeof(  [[[[], []]], []]  ))  # 72
 # - rovescia x
 # - pulisci x (clear)
 
+...
+
+
+# 11. inizializza una lista x contenente questi valori eterogenei "a", "1", 1, True, 3.14
+
+...
+
+# 12.
