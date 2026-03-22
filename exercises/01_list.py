@@ -117,4 +117,15 @@ print(sys.getsizeof(  [[[[], []]], []]  ))  # 72
 
 ...
 
-# 15. crea un programma basato su 2 tabelle
+# 15. crea un programma che gestisce il CRUD su 2 tabelle libro, casa_editrice
+# 
+# id, titolo_libro, costo, disponibile_in_magazzino, id_casa_editrice
+# -----------------------------------------------------------------
+# 1,  aaa,          1.50,   si,                      2
+# 2,  bbb,          23.0,   no,                      1
+# 3,  ccc,          4.12,   si,                      1
+#
+# id, nome
+# -----------------------------------------------------------------
+# 1,  einaudi
+# 2,  feltrinelli
