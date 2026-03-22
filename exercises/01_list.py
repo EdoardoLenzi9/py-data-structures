@@ -36,3 +36,21 @@ ram_space = ...
 
 ram_space = ...
 
+# 09. e' possibile ispezionare l'identificativo dell'indirizzo di memoria di 
+# ogni variabile tramite la funzione id, controlla l'id delle seguenti variabili/valori
+
+"abc"
+x = "abc"
+x
+x = "abc"
+x = "abcd"
+x
+y = []
+y
+y = []
+y.append("a")
+y
+y.append("b")
+y
+
+
