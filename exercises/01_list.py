@@ -53,6 +53,13 @@ y
 y.append("b")
 y
 
+# 09.bis come mai secondo te succede questa cosa?
+print(sys.getsizeof(  []                ))  # 56
+print(sys.getsizeof(  [[], []]          ))  # 72
+print(sys.getsizeof(  [[[]], []]        ))  # 72
+print(sys.getsizeof(  [[[[]]], []]      ))  # 72
+print(sys.getsizeof(  [[[[], []]], []]  ))  # 72
+
 # 10. operazioni sulle liste
 # - inizializza una lista di stringhe vuota x
 # - misura lo spazio in memoria occupato dal valore in x
@@ -69,3 +76,4 @@ y
 # - ordina gli elementi in x in ordine alfabetico discendente
 # - rovescia x
 # - pulisci x (clear)
+
