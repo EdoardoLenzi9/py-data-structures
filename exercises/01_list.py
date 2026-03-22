@@ -109,4 +109,7 @@ print(sys.getsizeof(  [[[[], []]], []]  ))  # 72
 
 ...
 
-# 14. 
+# 14. crea un programma che fa operazioni di CRUD sul database dell'esercizio 13
+# CRUD = Create, Read, Update, Delete
+# mi aspetto di avere i 4 metodi 
+# e un workflow che iterativamente mi chiede che azione fare, parametri e alla fine stampa anche il contenuto del database
