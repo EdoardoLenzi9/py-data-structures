@@ -35,4 +35,23 @@ y = ...
 z = ...
 print(z)
 
-# 09. 
+# 09. converti la lista x = [1,1,2,3] in un set
+# fai CRUD sul set usando le sue funzioni primitive (push, pop, ...)
+# trasforma il set in lista
+# fai CRUD sulla lista usando le sue funzioni primitive
+
+# 10. dichiara un dizionario a chiavi intere e valori stringa vuoto
+
+# 11. dichiara un dizionario a chiavi stringa e valori interi con questi valori iniziali
+# "a": 1, "b": 2, "c": 3
+# fai CRUD sul dizionario usando le sue funzioni primitive
+# stampa le chiavi, salvale in una lista
+# stampa i valori, salvali in una lista
+# stampa il valore di "b", stampa la chiave di 3, cerca un valore che non esiste
+
+# 12. prova a filtrare il set e il dizionario degli esercizi sopra usando set e dict comprehension
+
+# 13. inizializza una tupla a due valori 1,2
+# usa il pattern matching per assegnare con una sola riga di codice i valori della tupla alle variabili x e y
+# aggiungi alla tupla altri valori
+# fai CRUD sulla tupla
